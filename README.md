@@ -1,0 +1,2 @@
+# Cyber-Hacking-Breaches-Prediction-Using-Machine-Learning
+Developed a machine learning model to predict cyber hacking breaches based on historical data.Used features such as entity, year, records, and organization type for analysis and prediction.Implemented multiple algorithms including Random Forest, Decision Tree, SVM, and CatBoost for performance comparison.Achieved accurate breach prediction.
